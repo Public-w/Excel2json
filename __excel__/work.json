@@ -1,0 +1,7317 @@
+{
+  "opts": {
+    "Date1904": false,
+    "CalcPrecision": true,
+    "RefreshAll": false,
+    "CalcMode": 1,
+    "CalcCount": 100,
+    "CalcIter": false,
+    "CalcDelta": 0.001,
+    "CalcSaveRecalc": true
+  },
+  "SheetNames": [
+    "主表"
+  ],
+  "Sheets": {
+    "主表": {
+      "!margins": {
+        "left": 0.03937007874015748,
+        "right": 0.03937007874015748,
+        "top": 0.03937007874015748,
+        "bottom": 0.03937007874015748,
+        "header": 0.51181,
+        "footer": 0.51181
+      },
+      "A1": {
+        "v": "增值税及附加税费申报表（一般纳税人适用）",
+        "t": "s",
+        "w": "增值税及附加税费申报表（一般纳税人适用）",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A3": {
+        "v": "根据国家税收法律法规及增值税相关规定制定本表。纳税人不论有无销售额，均应按税务机关核定的纳税期限填写本表，并向当地税务机关申报。",
+        "t": "s",
+        "w": "根据国家税收法律法规及增值税相关规定制定本表。纳税人不论有无销售额，均应按税务机关核定的纳税期限填写本表，并向当地税务机关申报。",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A4": {
+        "v": "税款所属期：自2021年08月01日 至 2021年08月31日",
+        "t": "s",
+        "w": "税款所属期：自2021年08月01日 至 2021年08月31日",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D4": {
+        "v": "填表日期：2021年09月07日",
+        "t": "s",
+        "w": "填表日期：2021年09月07日",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F4": {
+        "v": "电话号码：17530845222",
+        "t": "s",
+        "w": "电话号码：17530845222",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A5": {
+        "v": "纳税人识别号：91410411MA44PA714T",
+        "t": "s",
+        "w": "纳税人识别号：91410411MA44PA714T",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D5": {
+        "v": "所属行业：金属及金属矿批发",
+        "t": "s",
+        "w": "所属行业：金属及金属矿批发",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F5": {
+        "v": "法定代表人姓名：胡应春",
+        "t": "s",
+        "w": "法定代表人姓名：胡应春",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A6": {
+        "v": "纳税人名称：平顶山市银昌商贸有限公司",
+        "t": "s",
+        "w": "纳税人名称：平顶山市银昌商贸有限公司",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D6": {
+        "v": "注册地址：河南省平顶山市湛河区平桐路石庙村南建材城B64",
+        "t": "s",
+        "w": "注册地址：河南省平顶山市湛河区平桐路石庙村南建材城B64",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F6": {
+        "v": "生产经营地址：河南省平顶山市湛河区平桐路中段平南物流园2号",
+        "t": "s",
+        "w": "生产经营地址：河南省平顶山市湛河区平桐路中段平南物流园2号",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A7": {
+        "v": "开户银行：中国建设银行",
+        "t": "s",
+        "w": "开户银行：中国建设银行",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C7": {
+        "v": "银行账号：41050172285200000190",
+        "t": "s",
+        "w": "银行账号：41050172285200000190",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E7": {
+        "v": "登记注册类型：其他有限责任公司",
+        "t": "s",
+        "w": "登记注册类型：其他有限责任公司",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G7": {
+        "v": "金额单位：元至角分",
+        "t": "s",
+        "w": "金额单位：元至角分",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A8": {
+        "v": "项     目",
+        "t": "s",
+        "w": "项     目",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C8": {
+        "v": "栏次",
+        "t": "s",
+        "w": "栏次",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D8": {
+        "v": "一般项目",
+        "t": "s",
+        "w": "一般项目",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F8": {
+        "v": "即征即退项目",
+        "t": "s",
+        "w": "即征即退项目",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D9": {
+        "v": "本月数",
+        "t": "s",
+        "w": "本月数",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E9": {
+        "v": "本年累计",
+        "t": "s",
+        "w": "本年累计",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F9": {
+        "v": "本月数",
+        "t": "s",
+        "w": "本月数",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G9": {
+        "v": "本年累计",
+        "t": "s",
+        "w": "本年累计",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A10": {
+        "v": "销\r\n售\r\n额",
+        "t": "s",
+        "w": "销\r\n售\r\n额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B10": {
+        "v": "（一）按适用税率计税销售额",
+        "t": "s",
+        "w": "（一）按适用税率计税销售额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C10": {
+        "v": 1,
+        "t": "n",
+        "w": "1",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D10": {
+        "v": 859770.58,
+        "t": "n",
+        "w": "859,770.58 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E10": {
+        "v": 9667447.81,
+        "t": "n",
+        "w": "9,667,447.81 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F10": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G10": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B11": {
+        "v": "其中：应税货物销售额",
+        "t": "s",
+        "w": "其中：应税货物销售额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C11": {
+        "v": 2,
+        "t": "n",
+        "w": "2",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D11": {
+        "v": 859770.58,
+        "t": "n",
+        "w": "859,770.58 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E11": {
+        "v": 9667447.81,
+        "t": "n",
+        "w": "9,667,447.81 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F11": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G11": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B12": {
+        "v": "      应税劳务销售额",
+        "t": "s",
+        "w": "      应税劳务销售额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C12": {
+        "v": 3,
+        "t": "n",
+        "w": "3",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D12": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E12": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F12": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G12": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B13": {
+        "v": "      纳税检查调整的销售额",
+        "t": "s",
+        "w": "      纳税检查调整的销售额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C13": {
+        "v": 4,
+        "t": "n",
+        "w": "4",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D13": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E13": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F13": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G13": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B14": {
+        "v": "（二）按简易办法计税销售额",
+        "t": "s",
+        "w": "（二）按简易办法计税销售额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C14": {
+        "v": 5,
+        "t": "n",
+        "w": "5",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D14": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E14": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F14": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G14": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B15": {
+        "v": "其中：纳税检查调整的销售额",
+        "t": "s",
+        "w": "其中：纳税检查调整的销售额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C15": {
+        "v": 6,
+        "t": "n",
+        "w": "6",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D15": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E15": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F15": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G15": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B16": {
+        "v": "（三）免、抵、退办法出口销售额",
+        "t": "s",
+        "w": "（三）免、抵、退办法出口销售额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C16": {
+        "v": 7,
+        "t": "n",
+        "w": "7",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D16": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E16": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F16": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G16": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B17": {
+        "v": "（四）免税销售额",
+        "t": "s",
+        "w": "（四）免税销售额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C17": {
+        "v": 8,
+        "t": "n",
+        "w": "8",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D17": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E17": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F17": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G17": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B18": {
+        "v": "其中：免税货物销售额",
+        "t": "s",
+        "w": "其中：免税货物销售额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C18": {
+        "v": 9,
+        "t": "n",
+        "w": "9",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D18": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E18": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F18": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G18": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B19": {
+        "v": "      免税劳务销售额",
+        "t": "s",
+        "w": "      免税劳务销售额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C19": {
+        "v": 10,
+        "t": "n",
+        "w": "10",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D19": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E19": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F19": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G19": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A20": {
+        "v": "税\r\n款\r\n计\r\n算",
+        "t": "s",
+        "w": "税\r\n款\r\n计\r\n算",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B20": {
+        "v": "销项税额",
+        "t": "s",
+        "w": "销项税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C20": {
+        "v": 11,
+        "t": "n",
+        "w": "11",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D20": {
+        "v": 111770.14,
+        "t": "n",
+        "w": "111,770.14 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E20": {
+        "v": 1256768.21,
+        "t": "n",
+        "w": "1,256,768.21 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F20": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G20": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B21": {
+        "v": "进项税额",
+        "t": "s",
+        "w": "进项税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C21": {
+        "v": 12,
+        "t": "n",
+        "w": "12",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D21": {
+        "v": 108071.05,
+        "t": "n",
+        "w": "108,071.05 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E21": {
+        "v": 1195587.65,
+        "t": "n",
+        "w": "1,195,587.65 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F21": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G21": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B22": {
+        "v": "上期留抵税额",
+        "t": "s",
+        "w": "上期留抵税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C22": {
+        "v": 13,
+        "t": "n",
+        "w": "13",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D22": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E22": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F22": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G22": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B23": {
+        "v": "进项税额转出",
+        "t": "s",
+        "w": "进项税额转出",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C23": {
+        "v": 14,
+        "t": "n",
+        "w": "14",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D23": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E23": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F23": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G23": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B24": {
+        "v": "免、抵、退应退税额",
+        "t": "s",
+        "w": "免、抵、退应退税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C24": {
+        "v": 15,
+        "t": "n",
+        "w": "15",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D24": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E24": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F24": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G24": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B25": {
+        "v": "按适用税率计算的纳税检查应补缴税额",
+        "t": "s",
+        "w": "按适用税率计算的纳税检查应补缴税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C25": {
+        "v": 16,
+        "t": "n",
+        "w": "16",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D25": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E25": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F25": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G25": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B26": {
+        "v": "应抵扣税额合计",
+        "t": "s",
+        "w": "应抵扣税额合计",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C26": {
+        "v": "17=12+13-14-15+16",
+        "t": "s",
+        "w": "17=12+13-14-15+16",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D26": {
+        "v": 108071.05,
+        "t": "n",
+        "w": "108,071.05 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E26": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F26": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G26": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B27": {
+        "v": "实际抵扣税额",
+        "t": "s",
+        "w": "实际抵扣税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C27": {
+        "v": "18（如17<11，则为17，否则为11）",
+        "t": "s",
+        "w": "18（如17<11，则为17，否则为11）",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D27": {
+        "v": 108071.05,
+        "t": "n",
+        "w": "108,071.05 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E27": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F27": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G27": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B28": {
+        "v": "应纳税额",
+        "t": "s",
+        "w": "应纳税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C28": {
+        "v": "19=11-18",
+        "t": "s",
+        "w": "19=11-18",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D28": {
+        "v": 3699.09,
+        "t": "n",
+        "w": "3,699.09 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E28": {
+        "v": 32038.15,
+        "t": "n",
+        "w": "32,038.15 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F28": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G28": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B29": {
+        "v": "期末留抵税额",
+        "t": "s",
+        "w": "期末留抵税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C29": {
+        "v": "20=17-18",
+        "t": "s",
+        "w": "20=17-18",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D29": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E29": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F29": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G29": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B30": {
+        "v": "简易计税办法计算的应纳税额",
+        "t": "s",
+        "w": "简易计税办法计算的应纳税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C30": {
+        "v": 21,
+        "t": "n",
+        "w": "21",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D30": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E30": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F30": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G30": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B31": {
+        "v": "按简易计税办法计算的纳税检查应补缴税额",
+        "t": "s",
+        "w": "按简易计税办法计算的纳税检查应补缴税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C31": {
+        "v": 22,
+        "t": "n",
+        "w": "22",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D31": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E31": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F31": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G31": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B32": {
+        "v": "应纳税额减征额",
+        "t": "s",
+        "w": "应纳税额减征额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C32": {
+        "v": 23,
+        "t": "n",
+        "w": "23",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D32": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E32": {
+        "v": 280,
+        "t": "n",
+        "w": "280.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F32": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G32": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B33": {
+        "v": "应纳税额合计",
+        "t": "s",
+        "w": "应纳税额合计",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C33": {
+        "v": "24=19+21-23",
+        "t": "s",
+        "w": "24=19+21-23",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D33": {
+        "v": 3699.09,
+        "t": "n",
+        "w": "3,699.09 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E33": {
+        "v": 31758.15,
+        "t": "n",
+        "w": "31,758.15 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F33": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G33": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A34": {
+        "v": "税\r\n款\r\n缴\r\n纳",
+        "t": "s",
+        "w": "税\r\n款\r\n缴\r\n纳",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B34": {
+        "v": "期初未缴税额（多缴为负数）",
+        "t": "s",
+        "w": "期初未缴税额（多缴为负数）",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C34": {
+        "v": 25,
+        "t": "n",
+        "w": "25",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D34": {
+        "v": 6371.91,
+        "t": "n",
+        "w": "6,371.91 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E34": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F34": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G34": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B35": {
+        "v": "实收出口开具专用缴款书退税额",
+        "t": "s",
+        "w": "实收出口开具专用缴款书退税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C35": {
+        "v": 26,
+        "t": "n",
+        "w": "26",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D35": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E35": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F35": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G35": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B36": {
+        "v": "本期已缴税额",
+        "t": "s",
+        "w": "本期已缴税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C36": {
+        "v": "27=28+29+30+31",
+        "t": "s",
+        "w": "27=28+29+30+31",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D36": {
+        "v": 6371.91,
+        "t": "n",
+        "w": "6,371.91 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E36": {
+        "v": 28059.06,
+        "t": "n",
+        "w": "28,059.06 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F36": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G36": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B37": {
+        "v": "①分次预缴税额",
+        "t": "s",
+        "w": "①分次预缴税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C37": {
+        "v": 28,
+        "t": "n",
+        "w": "28",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D37": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E37": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F37": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G37": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B38": {
+        "v": "②出口开具专用缴款书预缴税额",
+        "t": "s",
+        "w": "②出口开具专用缴款书预缴税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C38": {
+        "v": 29,
+        "t": "n",
+        "w": "29",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D38": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E38": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F38": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G38": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B39": {
+        "v": "③本期缴纳上期应纳税额",
+        "t": "s",
+        "w": "③本期缴纳上期应纳税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C39": {
+        "v": 30,
+        "t": "n",
+        "w": "30",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D39": {
+        "v": 6371.91,
+        "t": "n",
+        "w": "6,371.91 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E39": {
+        "v": 28059.06,
+        "t": "n",
+        "w": "28,059.06 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F39": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G39": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B40": {
+        "v": "④本期缴纳欠缴税额",
+        "t": "s",
+        "w": "④本期缴纳欠缴税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C40": {
+        "v": 31,
+        "t": "n",
+        "w": "31",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D40": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E40": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F40": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G40": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B41": {
+        "v": "期末未缴税额（多缴为负数）",
+        "t": "s",
+        "w": "期末未缴税额（多缴为负数）",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C41": {
+        "v": "32=24+25+26-27",
+        "t": "s",
+        "w": "32=24+25+26-27",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D41": {
+        "v": 3699.09,
+        "t": "n",
+        "w": "3,699.09 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E41": {
+        "v": 3699.09,
+        "t": "n",
+        "w": "3,699.09 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F41": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G41": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B42": {
+        "v": "其中：欠缴税额（≥0）",
+        "t": "s",
+        "w": "其中：欠缴税额（≥0）",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C42": {
+        "v": "33=25+26-27",
+        "t": "s",
+        "w": "33=25+26-27",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D42": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E42": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F42": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G42": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B43": {
+        "v": "本期应补(退)税额",
+        "t": "s",
+        "w": "本期应补(退)税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C43": {
+        "v": "34＝24-28-29",
+        "t": "s",
+        "w": "34＝24-28-29",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D43": {
+        "v": 3699.09,
+        "t": "n",
+        "w": "3,699.09 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E43": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F43": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G43": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B44": {
+        "v": "即征即退实际退税额",
+        "t": "s",
+        "w": "即征即退实际退税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C44": {
+        "v": 35,
+        "t": "n",
+        "w": "35",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D44": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E44": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F44": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G44": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B45": {
+        "v": "期初未缴查补税额",
+        "t": "s",
+        "w": "期初未缴查补税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C45": {
+        "v": 36,
+        "t": "n",
+        "w": "36",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D45": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E45": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F45": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G45": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B46": {
+        "v": "本期入库查补税额",
+        "t": "s",
+        "w": "本期入库查补税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C46": {
+        "v": 37,
+        "t": "n",
+        "w": "37",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D46": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E46": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F46": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G46": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B47": {
+        "v": "期末未缴查补税额",
+        "t": "s",
+        "w": "期末未缴查补税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C47": {
+        "v": "38=16+22+36-37",
+        "t": "s",
+        "w": "38=16+22+36-37",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D47": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E47": {
+        "v": 0,
+        "t": "n",
+        "w": "0.00 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F47": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G47": {
+        "v": "——",
+        "t": "s",
+        "w": "——",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A48": {
+        "v": "附\r\n加\r\n税\r\n费",
+        "t": "s",
+        "w": "附\r\n加\r\n税\r\n费",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B48": {
+        "v": "城市维护建设税本期应补（退）税额",
+        "t": "s",
+        "w": "城市维护建设税本期应补（退）税额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C48": {
+        "v": 39,
+        "t": "n",
+        "w": "39",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D48": {
+        "v": 258.94,
+        "t": "n",
+        "w": "258.94 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E48": {
+        "v": 2223.06,
+        "t": "n",
+        "w": "2,223.06 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F48": {
+        "v": "--",
+        "t": "s",
+        "w": "--",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G48": {
+        "v": "--",
+        "t": "s",
+        "w": "--",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B49": {
+        "v": "教育费附加本期应补（退）费额",
+        "t": "s",
+        "w": "教育费附加本期应补（退）费额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C49": {
+        "v": 40,
+        "t": "n",
+        "w": "40",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D49": {
+        "v": 110.97,
+        "t": "n",
+        "w": "110.97 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E49": {
+        "v": 952.74,
+        "t": "n",
+        "w": "952.74 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F49": {
+        "v": "--",
+        "t": "s",
+        "w": "--",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G49": {
+        "v": "--",
+        "t": "s",
+        "w": "--",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B50": {
+        "v": "地方教育附加本期应补（退）费额",
+        "t": "s",
+        "w": "地方教育附加本期应补（退）费额",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "C50": {
+        "v": 41,
+        "t": "n",
+        "w": "41",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D50": {
+        "v": 73.98,
+        "t": "n",
+        "w": "73.98 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E50": {
+        "v": 635.16,
+        "t": "n",
+        "w": "635.16 ",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F50": {
+        "v": "--",
+        "t": "s",
+        "w": "--",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "G50": {
+        "v": "--",
+        "t": "s",
+        "w": "--",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A51": {
+        "v": "授\r\n权\r\n声\r\n明",
+        "t": "s",
+        "w": "授\r\n权\r\n声\r\n明",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "B51": {
+        "v": "    如果你已委托代理人申报，请填写下列资料：               为代理一切税务事宜，现授权                         （地址）                           为本纳税人的代理申报人，任何与本申报表有关的往来文件，都可寄予此人。\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                                                                      授权人签字：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "t": "s",
+        "w": "    如果你已委托代理人申报，请填写下列资料：               为代理一切税务事宜，现授权                         （地址）                           为本纳税人的代理申报人，任何与本申报表有关的往来文件，都可寄予此人。\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                                                                      授权人签字：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D51": {
+        "v": "申报人声明",
+        "t": "s",
+        "w": "申报人声明",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "E51": {
+        "v": "    本纳税申报表是根据国家税收法律法规及相关规定填报的，我确定它是真实的、可靠的、完整的。\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                                                                                                                                                                                                                            声明人签字：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "t": "s",
+        "w": "    本纳税申报表是根据国家税收法律法规及相关规定填报的，我确定它是真实的、可靠的、完整的。\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                                                                                                                                                                                                                            声明人签字：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "A56": {
+        "v": "主管税务机关：",
+        "t": "s",
+        "w": "主管税务机关：",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "D56": {
+        "v": "接收人：",
+        "t": "s",
+        "w": "接收人：",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "F56": {
+        "v": "接收日期：",
+        "t": "s",
+        "w": "接收日期：",
+        "s": {
+          "patternType": "solid",
+          "fgColor": {
+            "rgb": "FFFFFF"
+          },
+          "bgColor": {
+            "rgb": "FFFFFF"
+          }
+        }
+      },
+      "!ref": "A1:G56",
+      "!merges": [
+        {
+          "s": {
+            "c": 0,
+            "r": 0
+          },
+          "e": {
+            "c": 6,
+            "r": 0
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 1
+          },
+          "e": {
+            "c": 6,
+            "r": 1
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 2
+          },
+          "e": {
+            "c": 6,
+            "r": 2
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 3
+          },
+          "e": {
+            "c": 2,
+            "r": 3
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 3
+          },
+          "e": {
+            "c": 4,
+            "r": 3
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 3
+          },
+          "e": {
+            "c": 6,
+            "r": 3
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 4
+          },
+          "e": {
+            "c": 2,
+            "r": 4
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 4
+          },
+          "e": {
+            "c": 4,
+            "r": 4
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 4
+          },
+          "e": {
+            "c": 6,
+            "r": 4
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 5
+          },
+          "e": {
+            "c": 2,
+            "r": 5
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 5
+          },
+          "e": {
+            "c": 4,
+            "r": 5
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 5
+          },
+          "e": {
+            "c": 6,
+            "r": 5
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 6
+          },
+          "e": {
+            "c": 1,
+            "r": 6
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 6
+          },
+          "e": {
+            "c": 3,
+            "r": 6
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 6
+          },
+          "e": {
+            "c": 5,
+            "r": 6
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 7
+          },
+          "e": {
+            "c": 1,
+            "r": 8
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 7
+          },
+          "e": {
+            "c": 2,
+            "r": 8
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 7
+          },
+          "e": {
+            "c": 4,
+            "r": 7
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 7
+          },
+          "e": {
+            "c": 6,
+            "r": 7
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 8
+          },
+          "e": {
+            "c": 3,
+            "r": 8
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 8
+          },
+          "e": {
+            "c": 4,
+            "r": 8
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 8
+          },
+          "e": {
+            "c": 5,
+            "r": 8
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 8
+          },
+          "e": {
+            "c": 6,
+            "r": 8
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 9
+          },
+          "e": {
+            "c": 0,
+            "r": 18
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 9
+          },
+          "e": {
+            "c": 1,
+            "r": 9
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 9
+          },
+          "e": {
+            "c": 2,
+            "r": 9
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 9
+          },
+          "e": {
+            "c": 3,
+            "r": 9
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 9
+          },
+          "e": {
+            "c": 4,
+            "r": 9
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 9
+          },
+          "e": {
+            "c": 6,
+            "r": 9
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 10
+          },
+          "e": {
+            "c": 1,
+            "r": 10
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 10
+          },
+          "e": {
+            "c": 2,
+            "r": 10
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 10
+          },
+          "e": {
+            "c": 3,
+            "r": 10
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 10
+          },
+          "e": {
+            "c": 4,
+            "r": 10
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 10
+          },
+          "e": {
+            "c": 5,
+            "r": 10
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 10
+          },
+          "e": {
+            "c": 6,
+            "r": 10
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 11
+          },
+          "e": {
+            "c": 1,
+            "r": 11
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 11
+          },
+          "e": {
+            "c": 2,
+            "r": 11
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 11
+          },
+          "e": {
+            "c": 3,
+            "r": 11
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 11
+          },
+          "e": {
+            "c": 4,
+            "r": 11
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 11
+          },
+          "e": {
+            "c": 5,
+            "r": 11
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 11
+          },
+          "e": {
+            "c": 6,
+            "r": 11
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 12
+          },
+          "e": {
+            "c": 1,
+            "r": 12
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 12
+          },
+          "e": {
+            "c": 2,
+            "r": 12
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 12
+          },
+          "e": {
+            "c": 4,
+            "r": 12
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 12
+          },
+          "e": {
+            "c": 5,
+            "r": 12
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 12
+          },
+          "e": {
+            "c": 6,
+            "r": 12
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 13
+          },
+          "e": {
+            "c": 1,
+            "r": 13
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 13
+          },
+          "e": {
+            "c": 2,
+            "r": 13
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 13
+          },
+          "e": {
+            "c": 3,
+            "r": 13
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 13
+          },
+          "e": {
+            "c": 4,
+            "r": 13
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 13
+          },
+          "e": {
+            "c": 5,
+            "r": 13
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 13
+          },
+          "e": {
+            "c": 6,
+            "r": 13
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 14
+          },
+          "e": {
+            "c": 1,
+            "r": 14
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 14
+          },
+          "e": {
+            "c": 2,
+            "r": 14
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 14
+          },
+          "e": {
+            "c": 3,
+            "r": 14
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 14
+          },
+          "e": {
+            "c": 4,
+            "r": 14
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 14
+          },
+          "e": {
+            "c": 5,
+            "r": 14
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 14
+          },
+          "e": {
+            "c": 6,
+            "r": 14
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 15
+          },
+          "e": {
+            "c": 1,
+            "r": 15
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 15
+          },
+          "e": {
+            "c": 2,
+            "r": 15
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 15
+          },
+          "e": {
+            "c": 3,
+            "r": 15
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 15
+          },
+          "e": {
+            "c": 4,
+            "r": 15
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 15
+          },
+          "e": {
+            "c": 5,
+            "r": 15
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 15
+          },
+          "e": {
+            "c": 6,
+            "r": 15
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 16
+          },
+          "e": {
+            "c": 1,
+            "r": 16
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 16
+          },
+          "e": {
+            "c": 2,
+            "r": 16
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 16
+          },
+          "e": {
+            "c": 3,
+            "r": 16
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 16
+          },
+          "e": {
+            "c": 4,
+            "r": 16
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 16
+          },
+          "e": {
+            "c": 5,
+            "r": 16
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 16
+          },
+          "e": {
+            "c": 6,
+            "r": 16
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 17
+          },
+          "e": {
+            "c": 1,
+            "r": 17
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 17
+          },
+          "e": {
+            "c": 2,
+            "r": 17
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 17
+          },
+          "e": {
+            "c": 3,
+            "r": 17
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 17
+          },
+          "e": {
+            "c": 4,
+            "r": 17
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 17
+          },
+          "e": {
+            "c": 5,
+            "r": 17
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 17
+          },
+          "e": {
+            "c": 6,
+            "r": 17
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 18
+          },
+          "e": {
+            "c": 1,
+            "r": 18
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 18
+          },
+          "e": {
+            "c": 2,
+            "r": 18
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 18
+          },
+          "e": {
+            "c": 3,
+            "r": 18
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 18
+          },
+          "e": {
+            "c": 4,
+            "r": 18
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 18
+          },
+          "e": {
+            "c": 5,
+            "r": 18
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 18
+          },
+          "e": {
+            "c": 6,
+            "r": 18
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 19
+          },
+          "e": {
+            "c": 0,
+            "r": 32
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 19
+          },
+          "e": {
+            "c": 1,
+            "r": 19
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 19
+          },
+          "e": {
+            "c": 2,
+            "r": 19
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 19
+          },
+          "e": {
+            "c": 3,
+            "r": 19
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 19
+          },
+          "e": {
+            "c": 4,
+            "r": 19
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 19
+          },
+          "e": {
+            "c": 5,
+            "r": 19
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 19
+          },
+          "e": {
+            "c": 6,
+            "r": 19
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 20
+          },
+          "e": {
+            "c": 1,
+            "r": 20
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 20
+          },
+          "e": {
+            "c": 2,
+            "r": 20
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 20
+          },
+          "e": {
+            "c": 3,
+            "r": 20
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 20
+          },
+          "e": {
+            "c": 4,
+            "r": 20
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 20
+          },
+          "e": {
+            "c": 5,
+            "r": 20
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 20
+          },
+          "e": {
+            "c": 6,
+            "r": 20
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 21
+          },
+          "e": {
+            "c": 1,
+            "r": 21
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 21
+          },
+          "e": {
+            "c": 2,
+            "r": 21
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 21
+          },
+          "e": {
+            "c": 3,
+            "r": 21
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 21
+          },
+          "e": {
+            "c": 4,
+            "r": 21
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 21
+          },
+          "e": {
+            "c": 5,
+            "r": 21
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 21
+          },
+          "e": {
+            "c": 6,
+            "r": 21
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 22
+          },
+          "e": {
+            "c": 1,
+            "r": 22
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 22
+          },
+          "e": {
+            "c": 2,
+            "r": 22
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 22
+          },
+          "e": {
+            "c": 3,
+            "r": 22
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 22
+          },
+          "e": {
+            "c": 4,
+            "r": 22
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 22
+          },
+          "e": {
+            "c": 5,
+            "r": 22
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 22
+          },
+          "e": {
+            "c": 6,
+            "r": 22
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 23
+          },
+          "e": {
+            "c": 1,
+            "r": 23
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 23
+          },
+          "e": {
+            "c": 2,
+            "r": 23
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 23
+          },
+          "e": {
+            "c": 3,
+            "r": 23
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 23
+          },
+          "e": {
+            "c": 4,
+            "r": 23
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 23
+          },
+          "e": {
+            "c": 5,
+            "r": 23
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 23
+          },
+          "e": {
+            "c": 6,
+            "r": 23
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 24
+          },
+          "e": {
+            "c": 1,
+            "r": 24
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 24
+          },
+          "e": {
+            "c": 2,
+            "r": 24
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 24
+          },
+          "e": {
+            "c": 3,
+            "r": 24
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 24
+          },
+          "e": {
+            "c": 4,
+            "r": 24
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 24
+          },
+          "e": {
+            "c": 5,
+            "r": 24
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 24
+          },
+          "e": {
+            "c": 6,
+            "r": 24
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 25
+          },
+          "e": {
+            "c": 1,
+            "r": 25
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 25
+          },
+          "e": {
+            "c": 2,
+            "r": 25
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 25
+          },
+          "e": {
+            "c": 3,
+            "r": 25
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 25
+          },
+          "e": {
+            "c": 4,
+            "r": 25
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 25
+          },
+          "e": {
+            "c": 5,
+            "r": 25
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 25
+          },
+          "e": {
+            "c": 6,
+            "r": 25
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 26
+          },
+          "e": {
+            "c": 1,
+            "r": 26
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 26
+          },
+          "e": {
+            "c": 2,
+            "r": 26
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 26
+          },
+          "e": {
+            "c": 3,
+            "r": 26
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 26
+          },
+          "e": {
+            "c": 4,
+            "r": 26
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 26
+          },
+          "e": {
+            "c": 5,
+            "r": 26
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 26
+          },
+          "e": {
+            "c": 6,
+            "r": 26
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 27
+          },
+          "e": {
+            "c": 1,
+            "r": 27
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 27
+          },
+          "e": {
+            "c": 2,
+            "r": 27
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 27
+          },
+          "e": {
+            "c": 3,
+            "r": 27
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 27
+          },
+          "e": {
+            "c": 4,
+            "r": 27
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 27
+          },
+          "e": {
+            "c": 5,
+            "r": 27
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 27
+          },
+          "e": {
+            "c": 6,
+            "r": 27
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 28
+          },
+          "e": {
+            "c": 1,
+            "r": 28
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 28
+          },
+          "e": {
+            "c": 2,
+            "r": 28
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 28
+          },
+          "e": {
+            "c": 3,
+            "r": 28
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 28
+          },
+          "e": {
+            "c": 4,
+            "r": 28
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 28
+          },
+          "e": {
+            "c": 5,
+            "r": 28
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 28
+          },
+          "e": {
+            "c": 6,
+            "r": 28
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 29
+          },
+          "e": {
+            "c": 1,
+            "r": 29
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 29
+          },
+          "e": {
+            "c": 2,
+            "r": 29
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 29
+          },
+          "e": {
+            "c": 3,
+            "r": 29
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 29
+          },
+          "e": {
+            "c": 4,
+            "r": 29
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 29
+          },
+          "e": {
+            "c": 5,
+            "r": 29
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 29
+          },
+          "e": {
+            "c": 6,
+            "r": 29
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 30
+          },
+          "e": {
+            "c": 1,
+            "r": 30
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 30
+          },
+          "e": {
+            "c": 2,
+            "r": 30
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 30
+          },
+          "e": {
+            "c": 3,
+            "r": 30
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 30
+          },
+          "e": {
+            "c": 4,
+            "r": 30
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 30
+          },
+          "e": {
+            "c": 5,
+            "r": 30
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 30
+          },
+          "e": {
+            "c": 6,
+            "r": 30
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 31
+          },
+          "e": {
+            "c": 1,
+            "r": 31
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 31
+          },
+          "e": {
+            "c": 2,
+            "r": 31
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 31
+          },
+          "e": {
+            "c": 3,
+            "r": 31
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 31
+          },
+          "e": {
+            "c": 4,
+            "r": 31
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 31
+          },
+          "e": {
+            "c": 5,
+            "r": 31
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 31
+          },
+          "e": {
+            "c": 6,
+            "r": 31
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 32
+          },
+          "e": {
+            "c": 1,
+            "r": 32
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 32
+          },
+          "e": {
+            "c": 2,
+            "r": 32
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 32
+          },
+          "e": {
+            "c": 3,
+            "r": 32
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 32
+          },
+          "e": {
+            "c": 4,
+            "r": 32
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 32
+          },
+          "e": {
+            "c": 5,
+            "r": 32
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 32
+          },
+          "e": {
+            "c": 6,
+            "r": 32
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 33
+          },
+          "e": {
+            "c": 0,
+            "r": 46
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 33
+          },
+          "e": {
+            "c": 1,
+            "r": 33
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 33
+          },
+          "e": {
+            "c": 2,
+            "r": 33
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 33
+          },
+          "e": {
+            "c": 3,
+            "r": 33
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 33
+          },
+          "e": {
+            "c": 4,
+            "r": 33
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 33
+          },
+          "e": {
+            "c": 5,
+            "r": 33
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 33
+          },
+          "e": {
+            "c": 6,
+            "r": 33
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 34
+          },
+          "e": {
+            "c": 1,
+            "r": 34
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 34
+          },
+          "e": {
+            "c": 2,
+            "r": 34
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 34
+          },
+          "e": {
+            "c": 3,
+            "r": 34
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 34
+          },
+          "e": {
+            "c": 4,
+            "r": 34
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 34
+          },
+          "e": {
+            "c": 5,
+            "r": 34
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 34
+          },
+          "e": {
+            "c": 6,
+            "r": 34
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 35
+          },
+          "e": {
+            "c": 1,
+            "r": 35
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 35
+          },
+          "e": {
+            "c": 2,
+            "r": 35
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 35
+          },
+          "e": {
+            "c": 3,
+            "r": 35
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 35
+          },
+          "e": {
+            "c": 4,
+            "r": 35
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 35
+          },
+          "e": {
+            "c": 5,
+            "r": 35
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 35
+          },
+          "e": {
+            "c": 6,
+            "r": 35
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 36
+          },
+          "e": {
+            "c": 1,
+            "r": 36
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 36
+          },
+          "e": {
+            "c": 2,
+            "r": 36
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 36
+          },
+          "e": {
+            "c": 3,
+            "r": 36
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 36
+          },
+          "e": {
+            "c": 4,
+            "r": 36
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 36
+          },
+          "e": {
+            "c": 5,
+            "r": 36
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 36
+          },
+          "e": {
+            "c": 6,
+            "r": 36
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 37
+          },
+          "e": {
+            "c": 1,
+            "r": 37
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 37
+          },
+          "e": {
+            "c": 2,
+            "r": 37
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 37
+          },
+          "e": {
+            "c": 3,
+            "r": 37
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 37
+          },
+          "e": {
+            "c": 4,
+            "r": 37
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 37
+          },
+          "e": {
+            "c": 5,
+            "r": 37
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 37
+          },
+          "e": {
+            "c": 6,
+            "r": 37
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 38
+          },
+          "e": {
+            "c": 1,
+            "r": 38
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 38
+          },
+          "e": {
+            "c": 2,
+            "r": 38
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 38
+          },
+          "e": {
+            "c": 3,
+            "r": 38
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 38
+          },
+          "e": {
+            "c": 4,
+            "r": 38
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 38
+          },
+          "e": {
+            "c": 5,
+            "r": 38
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 38
+          },
+          "e": {
+            "c": 6,
+            "r": 38
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 39
+          },
+          "e": {
+            "c": 1,
+            "r": 39
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 39
+          },
+          "e": {
+            "c": 2,
+            "r": 39
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 39
+          },
+          "e": {
+            "c": 3,
+            "r": 39
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 39
+          },
+          "e": {
+            "c": 4,
+            "r": 39
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 39
+          },
+          "e": {
+            "c": 5,
+            "r": 39
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 39
+          },
+          "e": {
+            "c": 6,
+            "r": 39
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 40
+          },
+          "e": {
+            "c": 1,
+            "r": 40
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 40
+          },
+          "e": {
+            "c": 2,
+            "r": 40
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 40
+          },
+          "e": {
+            "c": 3,
+            "r": 40
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 40
+          },
+          "e": {
+            "c": 4,
+            "r": 40
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 40
+          },
+          "e": {
+            "c": 5,
+            "r": 40
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 40
+          },
+          "e": {
+            "c": 6,
+            "r": 40
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 41
+          },
+          "e": {
+            "c": 1,
+            "r": 41
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 41
+          },
+          "e": {
+            "c": 2,
+            "r": 41
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 41
+          },
+          "e": {
+            "c": 3,
+            "r": 41
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 41
+          },
+          "e": {
+            "c": 4,
+            "r": 41
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 41
+          },
+          "e": {
+            "c": 5,
+            "r": 41
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 41
+          },
+          "e": {
+            "c": 6,
+            "r": 41
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 42
+          },
+          "e": {
+            "c": 1,
+            "r": 42
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 42
+          },
+          "e": {
+            "c": 2,
+            "r": 42
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 42
+          },
+          "e": {
+            "c": 3,
+            "r": 42
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 42
+          },
+          "e": {
+            "c": 4,
+            "r": 42
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 42
+          },
+          "e": {
+            "c": 5,
+            "r": 42
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 42
+          },
+          "e": {
+            "c": 6,
+            "r": 42
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 43
+          },
+          "e": {
+            "c": 1,
+            "r": 43
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 43
+          },
+          "e": {
+            "c": 2,
+            "r": 43
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 43
+          },
+          "e": {
+            "c": 3,
+            "r": 43
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 43
+          },
+          "e": {
+            "c": 4,
+            "r": 43
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 43
+          },
+          "e": {
+            "c": 5,
+            "r": 43
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 43
+          },
+          "e": {
+            "c": 6,
+            "r": 43
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 44
+          },
+          "e": {
+            "c": 1,
+            "r": 44
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 44
+          },
+          "e": {
+            "c": 2,
+            "r": 44
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 44
+          },
+          "e": {
+            "c": 3,
+            "r": 44
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 44
+          },
+          "e": {
+            "c": 4,
+            "r": 44
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 44
+          },
+          "e": {
+            "c": 5,
+            "r": 44
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 44
+          },
+          "e": {
+            "c": 6,
+            "r": 44
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 45
+          },
+          "e": {
+            "c": 1,
+            "r": 45
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 45
+          },
+          "e": {
+            "c": 2,
+            "r": 45
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 45
+          },
+          "e": {
+            "c": 3,
+            "r": 45
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 45
+          },
+          "e": {
+            "c": 4,
+            "r": 45
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 45
+          },
+          "e": {
+            "c": 5,
+            "r": 45
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 45
+          },
+          "e": {
+            "c": 6,
+            "r": 45
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 46
+          },
+          "e": {
+            "c": 1,
+            "r": 46
+          }
+        },
+        {
+          "s": {
+            "c": 2,
+            "r": 46
+          },
+          "e": {
+            "c": 2,
+            "r": 46
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 46
+          },
+          "e": {
+            "c": 3,
+            "r": 46
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 46
+          },
+          "e": {
+            "c": 4,
+            "r": 46
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 46
+          },
+          "e": {
+            "c": 5,
+            "r": 46
+          }
+        },
+        {
+          "s": {
+            "c": 6,
+            "r": 46
+          },
+          "e": {
+            "c": 6,
+            "r": 46
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 47
+          },
+          "e": {
+            "c": 0,
+            "r": 49
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 50
+          },
+          "e": {
+            "c": 0,
+            "r": 54
+          }
+        },
+        {
+          "s": {
+            "c": 1,
+            "r": 50
+          },
+          "e": {
+            "c": 2,
+            "r": 54
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 50
+          },
+          "e": {
+            "c": 3,
+            "r": 54
+          }
+        },
+        {
+          "s": {
+            "c": 4,
+            "r": 50
+          },
+          "e": {
+            "c": 6,
+            "r": 54
+          }
+        },
+        {
+          "s": {
+            "c": 0,
+            "r": 55
+          },
+          "e": {
+            "c": 2,
+            "r": 55
+          }
+        },
+        {
+          "s": {
+            "c": 3,
+            "r": 55
+          },
+          "e": {
+            "c": 4,
+            "r": 55
+          }
+        },
+        {
+          "s": {
+            "c": 5,
+            "r": 55
+          },
+          "e": {
+            "c": 6,
+            "r": 55
+          }
+        }
+      ],
+      "!cols": [
+        {
+          "width": 5.25,
+          "wpx": 21,
+          "wch": 4,
+          "MDW": 4
+        },
+        {
+          "width": 23.25,
+          "wpx": 93,
+          "wch": 22,
+          "MDW": 4
+        },
+        {
+          "width": 13.5,
+          "wpx": 54,
+          "wch": 12.25,
+          "MDW": 4
+        },
+        {
+          "width": 13.25,
+          "wpx": 53,
+          "wch": 12,
+          "MDW": 4
+        },
+        {
+          "width": 14.375,
+          "wpx": 58,
+          "wch": 13.25,
+          "MDW": 4
+        },
+        {
+          "width": 12.875,
+          "wpx": 52,
+          "wch": 11.75,
+          "MDW": 4
+        },
+        {
+          "width": 16,
+          "wpx": 64,
+          "wch": 14.75,
+          "MDW": 4
+        }
+      ],
+      "!rows": [
+        {
+          "hpt": 18.75,
+          "hpx": 18.75
+        },
+        {
+          "hpt": 19.5,
+          "hpx": 19.5
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 13.5,
+          "hpx": 13.5
+        },
+        {
+          "hpt": 12,
+          "hpx": 12
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 11.25,
+          "hpx": 11.25
+        },
+        {
+          "hpt": 20.25,
+          "hpx": 20.25
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 18.75,
+          "hpx": 18.75
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 21,
+          "hpx": 21
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 27,
+          "hpx": 27
+        },
+        {
+          "hpt": 21,
+          "hpx": 21
+        },
+        {
+          "hpt": 20.25,
+          "hpx": 20.25
+        },
+        {
+          "hpt": 15,
+          "hpx": 15
+        },
+        {
+          "hpt": 18.75,
+          "hpx": 18.75
+        },
+        {
+          "hpt": 18.75,
+          "hpx": 18.75
+        }
+      ]
+    }
+  },
+  "Preamble": {
+    "!protect": true
+  },
+  "Strings": [
+    {
+      "t": "增值税及附加税费申报表（一般纳税人适用）",
+      "raw": "<t>增值税及附加税费申报表（一般纳税人适用）</t>",
+      "r": "增值税及附加税费申报表（一般纳税人适用）"
+    },
+    {
+      "t": "根据国家税收法律法规及增值税相关规定制定本表。纳税人不论有无销售额，均应按税务机关核定的纳税期限填写本表，并向当地税务机关申报。",
+      "raw": "<t>根据国家税收法律法规及增值税相关规定制定本表。纳税人不论有无销售额，均应按税务机关核定的纳税期限填写本表，并向当地税务机关申报。</t>",
+      "r": "根据国家税收法律法规及增值税相关规定制定本表。纳税人不论有无销售额，均应按税务机关核定的纳税期限填写本表，并向当地税务机关申报。"
+    },
+    {
+      "t": "税款所属期：自2021年08月01日 至 2021年08月31日",
+      "raw": "<t>税款所属期：自2021年08月01日 至 2021年08月31日</t>",
+      "r": "税款所属期：自2021年08月01日 至 2021年08月31日"
+    },
+    {
+      "t": "填表日期：2021年09月07日",
+      "raw": "<t>填表日期：2021年09月07日</t>",
+      "r": "填表日期：2021年09月07日"
+    },
+    {
+      "t": "电话号码：17530845222",
+      "raw": "<t>电话号码：17530845222</t>",
+      "r": "电话号码：17530845222"
+    },
+    {
+      "t": "纳税人识别号：91410411MA44PA714T",
+      "raw": "<t>纳税人识别号：91410411MA44PA714T</t>",
+      "r": "纳税人识别号：91410411MA44PA714T"
+    },
+    {
+      "t": "所属行业：金属及金属矿批发",
+      "raw": "<t>所属行业：金属及金属矿批发</t>",
+      "r": "所属行业：金属及金属矿批发"
+    },
+    {
+      "t": "法定代表人姓名：胡应春",
+      "raw": "<t>法定代表人姓名：胡应春</t>",
+      "r": "法定代表人姓名：胡应春"
+    },
+    {
+      "t": "纳税人名称：平顶山市银昌商贸有限公司",
+      "raw": "<t>纳税人名称：平顶山市银昌商贸有限公司</t>",
+      "r": "纳税人名称：平顶山市银昌商贸有限公司"
+    },
+    {
+      "t": "注册地址：河南省平顶山市湛河区平桐路石庙村南建材城B64",
+      "raw": "<t>注册地址：河南省平顶山市湛河区平桐路石庙村南建材城B64</t>",
+      "r": "注册地址：河南省平顶山市湛河区平桐路石庙村南建材城B64"
+    },
+    {
+      "t": "生产经营地址：河南省平顶山市湛河区平桐路中段平南物流园2号",
+      "raw": "<t>生产经营地址：河南省平顶山市湛河区平桐路中段平南物流园2号</t>",
+      "r": "生产经营地址：河南省平顶山市湛河区平桐路中段平南物流园2号"
+    },
+    {
+      "t": "开户银行：中国建设银行",
+      "raw": "<t>开户银行：中国建设银行</t>",
+      "r": "开户银行：中国建设银行"
+    },
+    {
+      "t": "银行账号：41050172285200000190",
+      "raw": "<t>银行账号：41050172285200000190</t>",
+      "r": "银行账号：41050172285200000190"
+    },
+    {
+      "t": "登记注册类型：其他有限责任公司",
+      "raw": "<t>登记注册类型：其他有限责任公司</t>",
+      "r": "登记注册类型：其他有限责任公司"
+    },
+    {
+      "t": "金额单位：元至角分",
+      "raw": "<t>金额单位：元至角分</t>",
+      "r": "金额单位：元至角分"
+    },
+    {
+      "t": "项     目",
+      "raw": "<t>项     目</t>",
+      "r": "项     目"
+    },
+    {
+      "t": "栏次",
+      "raw": "<t>栏次</t>",
+      "r": "栏次"
+    },
+    {
+      "t": "一般项目",
+      "raw": "<t>一般项目</t>",
+      "r": "一般项目"
+    },
+    {
+      "t": "即征即退项目",
+      "raw": "<t>即征即退项目</t>",
+      "r": "即征即退项目"
+    },
+    {
+      "t": "本月数",
+      "raw": "<t>本月数</t>",
+      "r": "本月数"
+    },
+    {
+      "t": "本年累计",
+      "raw": "<t>本年累计</t>",
+      "r": "本年累计"
+    },
+    {
+      "t": "销\r\n售\r\n额",
+      "raw": "<t>销\r\n售\r\n额</t>",
+      "r": "销\r\n售\r\n额"
+    },
+    {
+      "t": "（一）按适用税率计税销售额",
+      "raw": "<t>（一）按适用税率计税销售额</t>",
+      "r": "（一）按适用税率计税销售额"
+    },
+    {
+      "t": "其中：应税货物销售额",
+      "raw": "<t>其中：应税货物销售额</t>",
+      "r": "其中：应税货物销售额"
+    },
+    {
+      "t": "      应税劳务销售额",
+      "raw": "<t>      应税劳务销售额</t>",
+      "r": "      应税劳务销售额"
+    },
+    {
+      "t": "      纳税检查调整的销售额",
+      "raw": "<t>      纳税检查调整的销售额</t>",
+      "r": "      纳税检查调整的销售额"
+    },
+    {
+      "t": "（二）按简易办法计税销售额",
+      "raw": "<t>（二）按简易办法计税销售额</t>",
+      "r": "（二）按简易办法计税销售额"
+    },
+    {
+      "t": "其中：纳税检查调整的销售额",
+      "raw": "<t>其中：纳税检查调整的销售额</t>",
+      "r": "其中：纳税检查调整的销售额"
+    },
+    {
+      "t": "（三）免、抵、退办法出口销售额",
+      "raw": "<t>（三）免、抵、退办法出口销售额</t>",
+      "r": "（三）免、抵、退办法出口销售额"
+    },
+    {
+      "t": "——",
+      "raw": "<t>——</t>",
+      "r": "——"
+    },
+    {
+      "t": "（四）免税销售额",
+      "raw": "<t>（四）免税销售额</t>",
+      "r": "（四）免税销售额"
+    },
+    {
+      "t": "其中：免税货物销售额",
+      "raw": "<t>其中：免税货物销售额</t>",
+      "r": "其中：免税货物销售额"
+    },
+    {
+      "t": "      免税劳务销售额",
+      "raw": "<t>      免税劳务销售额</t>",
+      "r": "      免税劳务销售额"
+    },
+    {
+      "t": "税\r\n款\r\n计\r\n算",
+      "raw": "<t>税\r\n款\r\n计\r\n算</t>",
+      "r": "税\r\n款\r\n计\r\n算"
+    },
+    {
+      "t": "销项税额",
+      "raw": "<t>销项税额</t>",
+      "r": "销项税额"
+    },
+    {
+      "t": "进项税额",
+      "raw": "<t>进项税额</t>",
+      "r": "进项税额"
+    },
+    {
+      "t": "上期留抵税额",
+      "raw": "<t>上期留抵税额</t>",
+      "r": "上期留抵税额"
+    },
+    {
+      "t": "进项税额转出",
+      "raw": "<t>进项税额转出</t>",
+      "r": "进项税额转出"
+    },
+    {
+      "t": "免、抵、退应退税额",
+      "raw": "<t>免、抵、退应退税额</t>",
+      "r": "免、抵、退应退税额"
+    },
+    {
+      "t": "按适用税率计算的纳税检查应补缴税额",
+      "raw": "<t>按适用税率计算的纳税检查应补缴税额</t>",
+      "r": "按适用税率计算的纳税检查应补缴税额"
+    },
+    {
+      "t": "应抵扣税额合计",
+      "raw": "<t>应抵扣税额合计</t>",
+      "r": "应抵扣税额合计"
+    },
+    {
+      "t": "17=12+13-14-15+16",
+      "raw": "<t>17=12+13-14-15+16</t>",
+      "r": "17=12+13-14-15+16"
+    },
+    {
+      "t": "实际抵扣税额",
+      "raw": "<t>实际抵扣税额</t>",
+      "r": "实际抵扣税额"
+    },
+    {
+      "t": "18（如17<11，则为17，否则为11）",
+      "raw": "<t>18（如17<11，则为17，否则为11）</t>",
+      "r": "18（如17<11，则为17，否则为11）"
+    },
+    {
+      "t": "应纳税额",
+      "raw": "<t>应纳税额</t>",
+      "r": "应纳税额"
+    },
+    {
+      "t": "19=11-18",
+      "raw": "<t>19=11-18</t>",
+      "r": "19=11-18"
+    },
+    {
+      "t": "期末留抵税额",
+      "raw": "<t>期末留抵税额</t>",
+      "r": "期末留抵税额"
+    },
+    {
+      "t": "20=17-18",
+      "raw": "<t>20=17-18</t>",
+      "r": "20=17-18"
+    },
+    {
+      "t": "简易计税办法计算的应纳税额",
+      "raw": "<t>简易计税办法计算的应纳税额</t>",
+      "r": "简易计税办法计算的应纳税额"
+    },
+    {
+      "t": "按简易计税办法计算的纳税检查应补缴税额",
+      "raw": "<t>按简易计税办法计算的纳税检查应补缴税额</t>",
+      "r": "按简易计税办法计算的纳税检查应补缴税额"
+    },
+    {
+      "t": "应纳税额减征额",
+      "raw": "<t>应纳税额减征额</t>",
+      "r": "应纳税额减征额"
+    },
+    {
+      "t": "应纳税额合计",
+      "raw": "<t>应纳税额合计</t>",
+      "r": "应纳税额合计"
+    },
+    {
+      "t": "24=19+21-23",
+      "raw": "<t>24=19+21-23</t>",
+      "r": "24=19+21-23"
+    },
+    {
+      "t": "税\r\n款\r\n缴\r\n纳",
+      "raw": "<t>税\r\n款\r\n缴\r\n纳</t>",
+      "r": "税\r\n款\r\n缴\r\n纳"
+    },
+    {
+      "t": "期初未缴税额（多缴为负数）",
+      "raw": "<t>期初未缴税额（多缴为负数）</t>",
+      "r": "期初未缴税额（多缴为负数）"
+    },
+    {
+      "t": "实收出口开具专用缴款书退税额",
+      "raw": "<t>实收出口开具专用缴款书退税额</t>",
+      "r": "实收出口开具专用缴款书退税额"
+    },
+    {
+      "t": "本期已缴税额",
+      "raw": "<t>本期已缴税额</t>",
+      "r": "本期已缴税额"
+    },
+    {
+      "t": "27=28+29+30+31",
+      "raw": "<t>27=28+29+30+31</t>",
+      "r": "27=28+29+30+31"
+    },
+    {
+      "t": "①分次预缴税额",
+      "raw": "<t>①分次预缴税额</t>",
+      "r": "①分次预缴税额"
+    },
+    {
+      "t": "②出口开具专用缴款书预缴税额",
+      "raw": "<t>②出口开具专用缴款书预缴税额</t>",
+      "r": "②出口开具专用缴款书预缴税额"
+    },
+    {
+      "t": "③本期缴纳上期应纳税额",
+      "raw": "<t>③本期缴纳上期应纳税额</t>",
+      "r": "③本期缴纳上期应纳税额"
+    },
+    {
+      "t": "④本期缴纳欠缴税额",
+      "raw": "<t>④本期缴纳欠缴税额</t>",
+      "r": "④本期缴纳欠缴税额"
+    },
+    {
+      "t": "期末未缴税额（多缴为负数）",
+      "raw": "<t>期末未缴税额（多缴为负数）</t>",
+      "r": "期末未缴税额（多缴为负数）"
+    },
+    {
+      "t": "32=24+25+26-27",
+      "raw": "<t>32=24+25+26-27</t>",
+      "r": "32=24+25+26-27"
+    },
+    {
+      "t": "其中：欠缴税额（≥0）",
+      "raw": "<t>其中：欠缴税额（≥0）</t>",
+      "r": "其中：欠缴税额（≥0）"
+    },
+    {
+      "t": "33=25+26-27",
+      "raw": "<t>33=25+26-27</t>",
+      "r": "33=25+26-27"
+    },
+    {
+      "t": "本期应补(退)税额",
+      "raw": "<t>本期应补(退)税额</t>",
+      "r": "本期应补(退)税额"
+    },
+    {
+      "t": "34＝24-28-29",
+      "raw": "<t>34＝24-28-29</t>",
+      "r": "34＝24-28-29"
+    },
+    {
+      "t": "即征即退实际退税额",
+      "raw": "<t>即征即退实际退税额</t>",
+      "r": "即征即退实际退税额"
+    },
+    {
+      "t": "期初未缴查补税额",
+      "raw": "<t>期初未缴查补税额</t>",
+      "r": "期初未缴查补税额"
+    },
+    {
+      "t": "本期入库查补税额",
+      "raw": "<t>本期入库查补税额</t>",
+      "r": "本期入库查补税额"
+    },
+    {
+      "t": "期末未缴查补税额",
+      "raw": "<t>期末未缴查补税额</t>",
+      "r": "期末未缴查补税额"
+    },
+    {
+      "t": "38=16+22+36-37",
+      "raw": "<t>38=16+22+36-37</t>",
+      "r": "38=16+22+36-37"
+    },
+    {
+      "t": "附\r\n加\r\n税\r\n费",
+      "raw": "<t>附\r\n加\r\n税\r\n费</t>",
+      "r": "附\r\n加\r\n税\r\n费"
+    },
+    {
+      "t": "城市维护建设税本期应补（退）税额",
+      "raw": "<t>城市维护建设税本期应补（退）税额</t>",
+      "r": "城市维护建设税本期应补（退）税额"
+    },
+    {
+      "t": "--",
+      "raw": "<t>--</t>",
+      "r": "--"
+    },
+    {
+      "t": "教育费附加本期应补（退）费额",
+      "raw": "<t>教育费附加本期应补（退）费额</t>",
+      "r": "教育费附加本期应补（退）费额"
+    },
+    {
+      "t": "地方教育附加本期应补（退）费额",
+      "raw": "<t>地方教育附加本期应补（退）费额</t>",
+      "r": "地方教育附加本期应补（退）费额"
+    },
+    {
+      "t": "授\r\n权\r\n声\r\n明",
+      "raw": "<t>授\r\n权\r\n声\r\n明</t>",
+      "r": "授\r\n权\r\n声\r\n明"
+    },
+    {
+      "t": "    如果你已委托代理人申报，请填写下列资料：               为代理一切税务事宜，现授权                         （地址）                           为本纳税人的代理申报人，任何与本申报表有关的往来文件，都可寄予此人。\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                                                                      授权人签字：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "raw": "<t>    如果你已委托代理人申报，请填写下列资料：               为代理一切税务事宜，现授权                         （地址）                           为本纳税人的代理申报人，任何与本申报表有关的往来文件，都可寄予此人。\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                                                                      授权人签字：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</t>",
+      "r": "    如果你已委托代理人申报，请填写下列资料：               为代理一切税务事宜，现授权                         （地址）                           为本纳税人的代理申报人，任何与本申报表有关的往来文件，都可寄予此人。\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                                                                      授权人签字：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    {
+      "t": "申报人声明",
+      "raw": "<t>申报人声明</t>",
+      "r": "申报人声明"
+    },
+    {
+      "t": "    本纳税申报表是根据国家税收法律法规及相关规定填报的，我确定它是真实的、可靠的、完整的。\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                                                                                                                                                                                                                            声明人签字：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "raw": "<t>    本纳税申报表是根据国家税收法律法规及相关规定填报的，我确定它是真实的、可靠的、完整的。\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                                                                                                                                                                                                                            声明人签字：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</t>",
+      "r": "    本纳税申报表是根据国家税收法律法规及相关规定填报的，我确定它是真实的、可靠的、完整的。\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                                                                                                                                                                                                                            声明人签字：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    {
+      "t": "主管税务机关：",
+      "raw": "<t>主管税务机关：</t>",
+      "r": "主管税务机关："
+    },
+    {
+      "t": "接收人：",
+      "raw": "<t>接收人：</t>",
+      "r": "接收人："
+    },
+    {
+      "t": "接收日期：",
+      "raw": "<t>接收日期：</t>",
+      "r": "接收日期："
+    }
+  ],
+  "SSF": {
+    "0": "General",
+    "1": "0",
+    "2": "0.00",
+    "3": "#,##0",
+    "4": "#,##0.00",
+    "5": "\"￥\"#,##0;\"￥\"\\-#,##0",
+    "6": "\"￥\"#,##0;[Red]\"￥\"\\-#,##0",
+    "7": "\"￥\"#,##0.00;\"￥\"\\-#,##0.00",
+    "8": "\"￥\"#,##0.00;[Red]\"￥\"\\-#,##0.00",
+    "9": "0%",
+    "10": "0.00%",
+    "11": "0.00E+00",
+    "12": "# ?/?",
+    "13": "# ??/??",
+    "14": "m/d/yy",
+    "15": "d-mmm-yy",
+    "16": "d-mmm",
+    "17": "mmm-yy",
+    "18": "h:mm AM/PM",
+    "19": "h:mm:ss AM/PM",
+    "20": "h:mm",
+    "21": "h:mm:ss",
+    "22": "m/d/yy h:mm",
+    "23": "\\$#,##0_);\\(\\$#,##0\\)",
+    "24": "\\$#,##0_);[Red]\\(\\$#,##0\\)",
+    "25": "\\$#,##0.00_);\\(\\$#,##0.00\\)",
+    "26": "\\$#,##0.00_);[Red]\\(\\$#,##0.00\\)",
+    "37": "#,##0 ;(#,##0)",
+    "38": "#,##0 ;[Red](#,##0)",
+    "39": "#,##0.00;(#,##0.00)",
+    "40": "#,##0.00;[Red](#,##0.00)",
+    "41": "_ * #,##0_ ;_ * \\-#,##0_ ;_ * \"-\"_ ;_ @_ ",
+    "42": "_ \"￥\"* #,##0_ ;_ \"￥\"* \\-#,##0_ ;_ \"￥\"* \"-\"_ ;_ @_ ",
+    "43": "_ * #,##0.00_ ;_ * \\-#,##0.00_ ;_ * \"-\"??_ ;_ @_ ",
+    "44": "_ \"￥\"* #,##0.00_ ;_ \"￥\"* \\-#,##0.00_ ;_ \"￥\"* \"-\"??_ ;_ @_ ",
+    "45": "mm:ss",
+    "46": "[h]:mm:ss",
+    "47": "mmss.0",
+    "48": "##0.0E+0",
+    "49": "@",
+    "56": "\"上午/下午 \"hh\"時\"mm\"分\"ss\"秒 \"",
+    "176": "#,##0.00_ ",
+    "65535": "General"
+  },
+  "Metadata": {
+    "Country": [
+      "CN",
+      "CN"
+    ]
+  },
+  "Workbook": {
+    "Sheets": [
+      {
+        "Hidden": 0,
+        "name": "主表"
+      }
+    ],
+    "WBProps": {
+      "date1904": false
+    },
+    "Views": [
+      {}
+    ]
+  },
+  "Custprops": {},
+  "Props": {}
+}
